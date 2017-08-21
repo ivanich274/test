@@ -3,4 +3,6 @@
 
 echo 'Goodbye';
 
+echo 'what, end';
+
 ?>
