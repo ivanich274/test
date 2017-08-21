@@ -1,12 +1,12 @@
 <?php
 
 
-echo 'Hello World!';
+echo 'Hello World!;';
 
-echo 'test';
+echo 'test;';
 
 
-echo 'то, что после Goodbye';
+echo 'то, что после Goodbye;';
 
 
 ?>
